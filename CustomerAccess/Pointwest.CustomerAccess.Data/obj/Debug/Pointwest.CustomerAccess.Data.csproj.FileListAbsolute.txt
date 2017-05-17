@@ -1,0 +1,10 @@
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Data\bin\Debug\Pointwest.CustomerAccess.Data.dll.config
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Data\bin\Debug\Pointwest.CustomerAccess.Data.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Data\bin\Debug\Pointwest.CustomerAccess.Data.pdb
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Data\bin\Debug\EntityFramework.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Data\bin\Debug\EntityFramework.xml
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Data\obj\Debug\Pointwest.CustomerAccess.Data.csprojResolveAssemblyReference.cache
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Data\obj\Debug\Pointwest.CustomerAccess.Data.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Data\obj\Debug\Pointwest.CustomerAccess.Data.pdb

@@ -1,0 +1,32 @@
+﻿VERSION BUILD=8050528 RECORDER=CR
+URL GOTO=http://getbootstrap.com/customize/
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@border-radius-base CONTENT=0
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@border-radius-large CONTENT=0
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@border-radius-small CONTENT=0
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@font-family-sans-serif CONTENT="Segoe<SP>UI<SP>Light",<SP>Helvetica,<SP>Arial,<SP>sans-serif
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@navbar-inverse-color CONTENT=@gray-lighter
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@navbar-inverse-bg CONTENT=#003399
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@navbar-inverse-link-color CONTENT=@gray-lighter
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@navbar-inverse-link-hover-bg CONTENT=@gray-dark
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@font-size-h1 CONTENT=floor((@font-size-base<SP>*<SP>4.07))
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@brand-info CONTENT=#33AAFF
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@state-info-text CONTENT=#33AAFF
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@grid-gutter-width CONTENT=16px
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@modal-lg CONTENT=800px
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@navbar-inverse-bg CONTENT=#22338B
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@dropdown-bg CONTENT=#22338B
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@dropdown-link-color CONTENT=#ffffff
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@dropdown-link-hover-bg CONTENT=#182462
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@dropdown-link-hover-color CONTENT=@component-active-color
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:NoFormName ATTR=ID:input-@dropdown-link-active-bg CONTENT=#182462
+
+
+
+getbootstrap:
+http://getbootstrap.com/customize/?id=bc6ef832a1c59781026d
+http://getbootstrap.com/customize/?id=19816d159cb349fb4f08
+http://getbootstrap.com/customize/?id=8a396297de8175ade538
+http://getbootstrap.com/customize/?id=a3c9416826a344c80313
+http://getbootstrap.com/customize/?id=6f56043c08b83676687d
+
+http://getbootstrap.com/customize/?id=dae644e89cb37078404f

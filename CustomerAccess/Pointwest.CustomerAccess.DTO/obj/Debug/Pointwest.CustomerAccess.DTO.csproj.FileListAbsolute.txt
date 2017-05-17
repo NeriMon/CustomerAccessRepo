@@ -1,0 +1,4 @@
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.DTO\bin\Debug\Pointwest.CustomerAccess.DTO.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.DTO\bin\Debug\Pointwest.CustomerAccess.DTO.pdb
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.DTO\obj\Debug\Pointwest.CustomerAccess.DTO.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.DTO\obj\Debug\Pointwest.CustomerAccess.DTO.pdb

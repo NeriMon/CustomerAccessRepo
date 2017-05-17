@@ -1,0 +1,11 @@
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\bin\Debug\Pointwest.CustomerAccess.Logic.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\bin\Debug\Pointwest.CustomerAccess.Logic.pdb
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\bin\Debug\Pointwest.CustomerAccess.Data.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\bin\Debug\Pointwest.CustomerAccess.DTO.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\bin\Debug\EntityFramework.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\bin\Debug\Pointwest.CustomerAccess.Data.pdb
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\bin\Debug\Pointwest.CustomerAccess.DTO.pdb
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\bin\Debug\EntityFramework.xml
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\obj\Debug\Pointwest.CustomerAccess.Logic.csprojResolveAssemblyReference.cache
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\obj\Debug\Pointwest.CustomerAccess.Logic.dll
+C:\Users\test\documents\visual studio 2013\Projects\CustomerAccess\Pointwest.CustomerAccess.Logic\obj\Debug\Pointwest.CustomerAccess.Logic.pdb
